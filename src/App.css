@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+.categoria {
+  align-items: center;
+  border: 1px solid rebeccapurple;
+  display: flex;
+  justify-content: center;
+  margin: 15px;
+  height: 150px;
+  width: 150px;
+}
+
+.categoria .position-1 {
+  background: 
+}
